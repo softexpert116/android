@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Davidhood</string>
+    <string name="french">Français</string>
+    <string name="deutsch">Deutsch</string>
+    <string name="welcome">Bienvenue !</string>
+    <string name="welcome_description">Try Davidhood, you can get more knowledge than ever.</string>
+    <string name="login">Connexion</string>
+    <string name="signup">créer un compte</string>
+    <string name="email">Email</string>
+    <string name="new_email">Nouveau email</string>
+    <string name="password">Mot de passe</string>
+    <string name="new_password">Nouveau mot de passe</string>
+    <string name="confirm_password">confirmer le mot de passe</string>
+    <string name="update">Update</string>
+    <string name="show">afficher</string>
+    <string name="hide">cacher</string>
+    <string name="first_name">Prénom</string>
+    <string name="last_name">Nom de famille</string>
+    <string name="birth_date">Date de naissance</string>
+    <string name="address">Adresse</string>
+    <string name="postal_code">Code postal</string>
+    <string name="iban">IBAN</string>
+    <string name="almost_done">Salut, c’est presque fini !</string>
+    <string name="almost_done_description">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</string>
+    <string name="i_agree">J’ai lu et j’accepte les conditions</string>
+    <string name="home">Accueil</string>
+    <string name="home_top">page d’accueil</string>
+    <string name="my_profile">Profil</string>
+    <string name="settings">Options</string>
+    <string name="profile_update_message">Pour changer de mot de passe ou d’email cliquer</string>
+    <string name="here">ici!</string>
+    <string name="general_condition">Condition générale</string>
+    <string name="about_us">Concept</string>
+    <string name="ask_questions">Poser une question</string>
+    <string name="publish_advertisement">Publier une publicité</string>
+    <string name="logout">Déconnection</string>
+    <string name="general_condition_detail">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+    <string name="about_us_detail">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+    <string name="subject">Titre</string>
+    <string name="message">Message (Max: 1024 caractères)</string>
+    <string name="submit">Submit</string>
+    <string name="ask_transfer">demander le versement</string>
+    <string name="request_description">Le versement peut être demandé seulement dès 20 CHF</string>
+
+
+</resources>
